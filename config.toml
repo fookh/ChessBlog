@@ -1,4 +1,4 @@
-baseURL = "fookh.github.io/ChessBlog/"
+baseURL = "https://fookh.github.io/ChessBlog/"
 languageCode = "en-us"
 title = "Hugo's ChessBlog"
 theme = "ananke"
