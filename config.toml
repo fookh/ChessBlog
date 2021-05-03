@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hugo's ChessBlog"
 theme = "ananke"
+canonifyURLs = true
 
 SectionPagesMenu = "main"
 Paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
