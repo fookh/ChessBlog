@@ -2,7 +2,6 @@ baseURL = "https://fookh.github.io/ChessBlog/"
 languageCode = "en-us"
 title = "Hugo's ChessBlog"
 theme = "ananke"
-resourceDir = "../resources"
 
 SectionPagesMenu = "main"
 Paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -38,4 +37,4 @@ contentDir = "content"
   recent_posts_number = 2
 
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true
