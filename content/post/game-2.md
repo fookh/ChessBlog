@@ -1,5 +1,5 @@
 ---
-date: 2021-05-02
+date: 2021-05-03
 description: "The KID bishop wins another game"
 featured_image: "/images/posts/p002/01.PNG"
 tags: ["Black", "King's Indian Defense", "d4"]
