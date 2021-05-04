@@ -20,7 +20,7 @@ contentDir = "content"
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Hugo's ChessBlog"
   facebook = ""
   twitter = "https://twitter.com/HugoDota"
   instagram = ""

@@ -2,7 +2,7 @@
 date: 2021-05-02
 description: "How not to attack against the London System"
 featured_image: "/images/posts/p001/01.PNG"
-tags: ["Black", "London System", "King's Indian Defense"]
+tags: ["Black", "London System", "King's Indian Defense", "d4"]
 title: "Game 1 : The London failure"
 disable_share: "true"
 ---
