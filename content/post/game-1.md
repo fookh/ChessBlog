@@ -3,7 +3,7 @@ date: 2021-05-02
 description: "How not to attack against the London System"
 featured_image: "/images/posts/p001/01.PNG"
 tags: ["Black", "London System", "King's Indian Defense", "d4"]
-title: "Game 1 : The London failure"
+title: "Game 1: The London failure"
 disable_share: "true"
 ---
 
@@ -62,7 +62,7 @@ The central break should be coming on c5 to avoid the over protected e5 square. 
 
 ## Conclusion
 
-Against the London System, we now have our checklist to know what to do :
-- Did the opponent keep a safe square for his dark squared bishop ? If not, hunt him down with our knight.
-- Did the opponent played Bd2 ? If not, look for tactical idea in the center.
-- Does the opponent has a safe position centered around e4 ? If yes, push the c-pawn to break in the center
+Against the London System, we now have our checklist to know what to do:
+- Did the opponent keep a safe square for his dark squared bishop? If not, hunt him down with our knight.
+- Did the opponent played Bd2? If not, look for tactical idea in the center.
+- Does the opponent has a safe position centered around e4? If yes, push the c-pawn to break in the center

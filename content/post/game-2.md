@@ -3,7 +3,7 @@ date: 2021-05-03
 description: "The KID bishop wins another game"
 featured_image: "/images/posts/p002/01.PNG"
 tags: ["Black", "King's Indian Defense", "d4"]
-title: "Game 2 : Abusing the KID bishop"
+title: "Game 2: Abusing the KID bishop"
 disable_share: "true"
 ---
 
@@ -12,6 +12,8 @@ disable_share: "true"
 My opponent choose a very timid strategy by playing a semi-slav for White. 
 
 I decided to open up the center and a tactic decided the game by move 11.
+
+ <!--more-->
 
 ## The game
 
@@ -45,7 +47,7 @@ The correct defense was indeed to block the a1-h8 diagonal but not on c3.
 
 Nd4 is protected by a pawn and Black cannot reach the rook anymore. Black still has attacking idea but it's not clear if it's worth it.
 
-{{< figure src="/images/posts/p002/05.gif" title="Black is up an exchange but it is worth it ?">}}
+{{< figure src="/images/posts/p002/05.gif" title="Black is up an exchange but it is worth it?">}}
 
 ## Improving the attack
 
